@@ -1,0 +1,44 @@
+* {border:1px dashed #0000FF}
+body {
+	background-color: white;
+	color: blue;
+	font-size: 16px;
+	font-family: Arial, Courier, sans-serif, monospace;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+#header {position:static; margin-bottom:5px;}
+a {
+	text-decoration:none;
+}
+h1 a:visited {
+	color:blue;
+}
+#site-name {
+	text-align:center;
+}
+#info-bar {
+	width:97%; background-color:red; margin:auto; padding:1px;
+}
+table {
+	color:white;
+}
+td {
+	/*border:2px solid black;*/
+}
+#nav-bar {
+	width:125px; background-color:lightgrey; padding-left:2px; padding-right:2px; margin-left:2%; text-align: center; float:left;
+}
+#nav {
+	border-bottom:2px solid black; margin-top:0px; margin-bottom:0px;
+}
+#places {
+	margin-top:0px; margin-bottom:0px;
+}
+#paragraph {
+	width:70%; height:200px; background-color:green; margin-right:2%; float:right;
+}
+#footer {
+	
+}
